@@ -1,0 +1,1 @@
+a small task about two search algorithms [Depth first - Breath first] using Python. given some nodes with their sub-nodes (children), I can result the route of the search in both the Depth first & Breath first algorithms.
